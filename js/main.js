@@ -33,7 +33,7 @@ function pickCharacter() {
   var heroIndex = time % heroes.length;
   var hero = heroes[heroIndex];
   var heroName = hero["name"];
-  var heroImage = "img/hero/" + hero["img"] + ".png";
+  var heroClass = "icon icon-" + hero["img"];
   $("#hero-name").text(heroName);
-  $("#hero-image").attr("src", heroImage);
+  $("#hero-image").attr("class", heroClass);
 };
