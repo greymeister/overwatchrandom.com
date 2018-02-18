@@ -37,3 +37,9 @@ function pickCharacter() {
   $("#hero-name").text(heroName);
   $("#hero-image").attr("class", heroClass);
 };
+
+function preloadImage(imageSrc) {
+  var r = $.Deferred();
+	(new Image()).src = imageSrc;
+  return r;
+};
