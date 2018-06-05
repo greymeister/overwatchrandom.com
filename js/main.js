@@ -3,6 +3,7 @@ function pickCharacter() {
   var heroes = [
     {"name":"ANA","img":"ana"},
     {"name":"BASTION","img":"bastion"},
+    {"name":"BRIGITTE","img":"brigitte"},
     {"name":"DOOMFIST","img":"doomfist"},
     {"name":"D.VA","img":"dva"},
     {"name":"GENJI","img":"genji"},

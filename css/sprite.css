@@ -10,7 +10,7 @@
   top: -2px;
 }
 
-.icon-pharah {
+.icon-orisa {
   background-position: -0px -0px;
   width: 182px;
   height: 312px;
@@ -20,57 +20,57 @@
   width: 182px;
   height: 312px;
 }
-.icon-doomfist {
+.icon-brigitte {
   background-position: -0px -636px;
   width: 182px;
   height: 312px;
 }
-.icon-dva {
+.icon-doomfist {
   background-position: -0px -954px;
   width: 182px;
   height: 312px;
 }
-.icon-genji {
+.icon-dva {
   background-position: -0px -1272px;
   width: 182px;
   height: 312px;
 }
-.icon-hanzo {
+.icon-genji {
   background-position: -0px -1590px;
   width: 182px;
   height: 312px;
 }
-.icon-junkrat {
+.icon-hanzo {
   background-position: -0px -1908px;
   width: 182px;
   height: 312px;
 }
-.icon-lucio {
+.icon-junkrat {
   background-position: -0px -2226px;
   width: 182px;
   height: 312px;
 }
-.icon-mccree {
+.icon-lucio {
   background-position: -0px -2544px;
   width: 182px;
   height: 312px;
 }
-.icon-mei {
+.icon-mccree {
   background-position: -0px -2862px;
   width: 182px;
   height: 312px;
 }
-.icon-mercy {
+.icon-mei {
   background-position: -0px -3180px;
   width: 182px;
   height: 312px;
 }
-.icon-moira {
+.icon-mercy {
   background-position: -0px -3498px;
   width: 182px;
   height: 312px;
 }
-.icon-orisa {
+.icon-moira {
   background-position: -0px -3816px;
   width: 182px;
   height: 312px;
@@ -80,63 +80,68 @@
   width: 182px;
   height: 312px;
 }
-.icon-reaper {
+.icon-pharah {
   background-position: -0px -4452px;
   width: 182px;
   height: 312px;
 }
-.icon-reinhardt {
+.icon-reaper {
   background-position: -0px -4770px;
   width: 182px;
   height: 312px;
 }
-.icon-roadhog {
+.icon-reinhardt {
   background-position: -0px -5088px;
   width: 182px;
   height: 312px;
 }
-.icon-soldier-76 {
+.icon-roadhog {
   background-position: -0px -5406px;
   width: 182px;
   height: 312px;
 }
-.icon-sombra {
+.icon-soldier-76 {
   background-position: -0px -5724px;
   width: 182px;
   height: 312px;
 }
-.icon-symmetra {
+.icon-sombra {
   background-position: -0px -6042px;
   width: 182px;
   height: 312px;
 }
-.icon-torbjorn {
+.icon-symmetra {
   background-position: -0px -6360px;
   width: 182px;
   height: 312px;
 }
-.icon-tracer {
+.icon-torbjorn {
   background-position: -0px -6678px;
   width: 182px;
   height: 312px;
 }
-.icon-widowmaker {
+.icon-tracer {
   background-position: -0px -6996px;
   width: 182px;
   height: 312px;
 }
-.icon-winston {
+.icon-widowmaker {
   background-position: -0px -7314px;
   width: 182px;
   height: 312px;
 }
-.icon-zarya {
+.icon-winston {
   background-position: -0px -7632px;
   width: 182px;
   height: 312px;
 }
-.icon-zenyatta {
+.icon-zarya {
   background-position: -0px -7950px;
+  width: 182px;
+  height: 312px;
+}
+.icon-zenyatta {
+  background-position: -0px -8268px;
   width: 182px;
   height: 312px;
 }
