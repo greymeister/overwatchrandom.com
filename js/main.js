@@ -26,6 +26,7 @@ function pickCharacter() {
     {"name":"TRACER","img":"tracer"},
     {"name":"WIDOWMAKER","img":"widowmaker"},
     {"name":"WINSTON","img":"winston"},
+    {"name":"WRECKING BALL","img":"wrecking-ball"},
     {"name":"ZARYA","img":"zarya"},
     {"name":"ZENYATTA","img":"zenyatta"}
   ]

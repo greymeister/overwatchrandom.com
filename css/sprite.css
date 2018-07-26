@@ -10,13 +10,13 @@
   top: -2px;
 }
 
-.icon-orisa {
+.icon-pharah {
   background-position: -0px -0px;
   width: 182px;
   height: 312px;
 }
 .icon-ana {
-  background-position: -0px -318px;
+  background-position: -0px -312px;
   width: 182px;
   height: 312px;
 }
@@ -75,12 +75,12 @@
   width: 182px;
   height: 312px;
 }
-.icon-bastion {
+.icon-orisa {
   background-position: -0px -4134px;
   width: 182px;
   height: 312px;
 }
-.icon-pharah {
+.icon-bastion {
   background-position: -0px -4452px;
   width: 182px;
   height: 312px;
@@ -135,13 +135,18 @@
   width: 182px;
   height: 312px;
 }
-.icon-zarya {
+.icon-wrecking-ball {
   background-position: -0px -7950px;
   width: 182px;
   height: 312px;
 }
-.icon-zenyatta {
+.icon-zarya {
   background-position: -0px -8268px;
+  width: 182px;
+  height: 312px;
+}
+.icon-zenyatta {
+  background-position: -0px -8586px;
   width: 182px;
   height: 312px;
 }
