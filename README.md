@@ -1,5 +1,7 @@
 # overwatchrandom.com
 
+#### Note: This project is no longer maintained and the website will go offline
+
 ## Generate random overwatch characters to play because Blizzard can't be bothered.
 
 Just click the dice button and get a character to quick play as.
